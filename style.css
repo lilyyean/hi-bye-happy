@@ -1,0 +1,15 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+
+#myTextArea {
+  font-size: 48px;
+  font-family: a솜사탕;
+  font-weight: bold;
+  line-height: 65px;
+  outline: none;
+}
